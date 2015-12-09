@@ -1,0 +1,28 @@
+name: hannel
+favicon: null
+layout_spectrum: 0.687187478877604
+typography_spectrum: 0.05990339396521449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5752287958748639
+  lightness: 0.11828614841215312
+  saturation: 0.6029038161505014
+  rhythmicContrast: 0.6422162638045847
+purpose: []
