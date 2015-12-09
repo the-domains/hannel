@@ -4,21 +4,21 @@
         <description><![CDATA[hannel]]></description>
         <link>https://thegrid.ai/hannel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 11:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 11:01:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hannel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Så vanlig er din bursdag | ABC Nyheter]]></title>
+            <description><![CDATA[<article><h1>Så vanlig er din bursdag | ABC Nyheter</h1><p>Bursdagsoversikt i Tableau</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/739e8fafe417cac3a1ea0878af9fae77931bd972.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hannel/sa-vanlig-er-din-bursdag-or-abc-nyheter/index.html</link>
+            <guid isPermaLink="false">aedf8589-933d-4612-8b22-9f537438c7db</guid>
+            <pubDate>Wed, 09 Dec 2015 11:01:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bursdagsparadokset: Hvor mange trenger man før man finner to med bursdag samme dag? | ABC Nyheter]]></title>
             <description><![CDATA[<article><h1>Bursdagsparadokset: Hvor mange trenger man før man finner to med bursdag samme dag? | ABC Nyheter</h1><p>Det er ikke så ofte vi har tid til å bruke video-folka våre til å gå ut på gata og spørre når folk har bursdag. Men heldigvis hender det at sjefene er syke eller på møte og da gjelder det å benytte muligheten. Eller danse på bordet, som det heter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46c9c3f9e527ddecce27677b0cfd348aba3da4b5.jpg"></article>]]></description>
             <link>https://thegrid.ai/hannel/bursdagsparadokset-hvor-mange-trenger-man-for-man-finner-to/index.html</link>
             <guid isPermaLink="false">5d5a000f-45a9-4d35-855c-bd7a1d979025</guid>
             <pubDate>Wed, 09 Dec 2015 10:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Så vanlig er din bursdag | ABC Nyheter]]></title>
-            <description><![CDATA[<article><h1>Så vanlig er din bursdag | ABC Nyheter</h1><p>Bursdagsoversikt i Tableau</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/739e8fafe417cac3a1ea0878af9fae77931bd972.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hannel/sa-vanlig-er-din-bursdag-or-abc-nyheter/index.html</link>
-            <guid isPermaLink="false">aedf8589-933d-4612-8b22-9f537438c7db</guid>
-            <pubDate>Wed, 09 Dec 2015 11:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
