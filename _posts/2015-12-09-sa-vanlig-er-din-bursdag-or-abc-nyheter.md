@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: da
 starred: false
 keywords: []
 description: 'Basert på en oversikt fra SSB har ABC Nyheter laget en interaktiv grafikk som viser hvor vanlig alle de 366 mulige bursdagene faktisk er. Du kan også finne din bursdag og se hvor mange som har bursdag samme dag som deg! Surfer du på stor skjerm: Men surfer du på mobil: 1.'
-datePublished: '2015-12-09T09:37:05.482Z'
-dateModified: '2015-12-09T09:36:49.527Z'
+datePublished: '2015-12-09T10:54:42.926Z'
+dateModified: '2015-12-09T10:53:28.890Z'
 author: []
 related: []
 app_links: []
 title: 'Så vanlig er din bursdag | ABC Nyheter'
+sourcePath: _posts/2015-12-09-sa-vanlig-er-din-bursdag-or-abc-nyheter.md
+published: true
 authors: []
 publisher:
   name: Abcnyheter
   domain: www.abcnyheter.no
   url: 'http://www.abcnyheter.no'
   favicon: 'http://www.abcnyheter.no/news/static/images/responsive/favicons/favicon.ico'
-sourcePath: _posts/2015-12-09-sa-vanlig-er-din-bursdag-or-abc-nyheter.md
-published: true
 url: sa-vanlig-er-din-bursdag-or-abc-nyheter/index.html
 _context: 'http://schema.org'
 _type: MediaObject
