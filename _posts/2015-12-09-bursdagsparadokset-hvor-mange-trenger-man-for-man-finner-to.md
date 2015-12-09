@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: da
 starred: true
 keywords: []
 description: 'For hvor stor er sjansen for at to personer i en tilfeldig gruppe har bursdag på samme dag? Det avhenger selvsagt av hvor stor gruppen er. Da vi spurte folk på gata hvor mange vi trengte før vi fikk et treff, svarte de fleste over 100.'
-datePublished: '2015-12-09T10:49:27.137Z'
-dateModified: '2015-12-09T10:49:14.669Z'
+datePublished: '2015-12-09T10:50:35.140Z'
+dateModified: '2015-12-09T10:50:08.976Z'
 author: []
 related: []
 app_links: []
 title: 'Bursdagsparadokset: Hvor mange trenger man før man finner to med bursdag samme dag? | ABC Nyheter'
+sourcePath: _posts/2015-12-09-bursdagsparadokset-hvor-mange-trenger-man-for-man-finner-to.md
+published: true
 authors: []
 publisher:
   name: Abcnyheter
   domain: www.abcnyheter.no
   url: 'http://www.abcnyheter.no'
   favicon: 'http://www.abcnyheter.no/news/static/images/responsive/favicons/favicon.ico'
-sourcePath: _posts/2015-12-09-bursdagsparadokset-hvor-mange-trenger-man-for-man-finner-to.md
-published: true
 url: bursdagsparadokset-hvor-mange-trenger-man-for-man-finner-to/index.html
 _context: 'http://schema.org'
 _type: MediaObject
