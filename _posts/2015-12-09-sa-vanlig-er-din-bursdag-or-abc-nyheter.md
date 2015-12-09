@@ -6,8 +6,8 @@ inLanguage: da
 starred: false
 keywords: []
 description: 'Basert på en oversikt fra SSB har ABC Nyheter laget en interaktiv grafikk som viser hvor vanlig alle de 366 mulige bursdagene faktisk er. Du kan også finne din bursdag og se hvor mange som har bursdag samme dag som deg! Surfer du på stor skjerm: Men surfer du på mobil: 1.'
-datePublished: '2015-12-09T11:07:29.744Z'
-dateModified: '2015-12-09T11:07:23.165Z'
+datePublished: '2015-12-09T11:22:59.857Z'
+dateModified: '2015-12-09T11:22:52.461Z'
 author: []
 related: []
 app_links: []
@@ -25,9 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Bursdagsoversikt i Tableau
+<article style=""><h1>Så vanlig er din bursdag | ABC Nyheter</h1><p>Basert på en oversikt fra SSB har ABC Nyheter laget en interaktiv grafikk som viser hvor vanlig alle de 366 mulige bursdagene faktisk er. Du kan også finne din bursdag og se hvor mange som har bursdag samme dag som deg! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/739e8fafe417cac3a1ea0878af9fae77931bd972.jpg" /></article>
 
-<article style=""><h1>Så vanlig er din bursdag | ABC Nyheter</h1><p>Basert på en oversikt fra SSB har ABC Nyheter laget en interaktiv grafikk som viser hvor vanlig alle de 366 mulige bursdagene faktisk er. Du kan også finne din bursdag og se hvor mange som har bursdag samme dag som deg! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85ca44fc03c7aa6939b36f39148be1d1cf098128.jpg" /></article>
+Bursdagsoversikt i Tableau
 
 Jeg har laget en oversikt over bursdagene i landet.
 
