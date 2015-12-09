@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: da
-starred: true
+starred: false
 keywords: []
 description: 'Basert på en oversikt fra SSB har ABC Nyheter laget en interaktiv grafikk som viser hvor vanlig alle de 366 mulige bursdagene faktisk er. Du kan også finne din bursdag og se hvor mange som har bursdag samme dag som deg! Surfer du på stor skjerm: Men surfer du på mobil: 1.'
-datePublished: '2015-12-09T11:01:24.018Z'
-dateModified: '2015-12-09T11:01:19.433Z'
+datePublished: '2015-12-09T11:07:29.744Z'
+dateModified: '2015-12-09T11:07:23.165Z'
 author: []
 related: []
 app_links: []
